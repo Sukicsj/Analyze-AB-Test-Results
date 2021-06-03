@@ -1,4 +1,4 @@
-# Udacity Dara Analyst Nanodegree - Project 3
+# Udacity Data Analyst Nanodegree - Project 3
 # Analyze-AB-Test-Results
 
 # Introduction
